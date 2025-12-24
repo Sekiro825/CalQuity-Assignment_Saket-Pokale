@@ -52,7 +52,7 @@ export default function Home() {
             <div className="hidden md:flex w-16 lg:w-64 flex-col border-r bg-gray-50 p-4">
                 <div className="font-bold text-xl text-teal-700 mb-8 flex items-center gap-2">
                     <div className="w-6 h-6 bg-teal-700 rounded-sm" />
-                    <span className="hidden lg:inline">Perplexity Clone</span>
+                    <span className="hidden lg:inline">CalQuity</span>
                 </div>
                 <div className="flex-1">
                     <button className="flex items-center gap-3 w-full p-2 bg-white border shadow-sm rounded-full text-sm font-medium text-gray-600 hover:shadow-md transition-shadow">
